@@ -1,6 +1,6 @@
 {
-  "name": "react-rasta",
-  "version": "1.0.0",
+  "name": "@cesardenis/react-rasta",
+  "version": "1.0.3",
   "description": "The most powerful and flexible grid system for React",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
